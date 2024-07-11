@@ -1,1 +1,1 @@
-This is the git-github checkponit
+This is the git-github checkpoint
